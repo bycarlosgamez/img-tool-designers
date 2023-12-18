@@ -1,6 +1,8 @@
 # DesImg
 
-DesImg is an React online tool that allows designers to generate stylish placeholder images based on custom parameters.
+DesImg is a React online tool that allows designers to generate stylish placeholder images based on custom parameters.
+
+Live Project: [Link text](https://chic-otter-3e8bd4.netlify.app)
 
 ## Installation
 
